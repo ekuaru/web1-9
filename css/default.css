@@ -92,4 +92,9 @@ body{
   border-radius: 5px;
   box-shadow: 1px 1px 3px grey;
   color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
+  background-color: blue;
+  background: linear-gradient(0deg,
+              #00679a, #0081b4 50%, #63b3d2 50%, #bfe5f2 );
 }
