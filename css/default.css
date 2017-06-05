@@ -12,13 +12,6 @@ body{
   background-color: #cccccc;
   margin: 5px;
 }
-body{
-  background-image: url(../logo-bird.png), url(../aoi-tori.jpg);
-  background-repeat: no-repeat, no-repeat;
-  background-size: 100% 100%, contain;
-  background-color: #cccccc;
-  margin: 5px;
-}
 
 #text-shadow{
   padding: 0 40px;
