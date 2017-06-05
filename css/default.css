@@ -8,6 +8,14 @@
 body{
   background-image: url(../logo-bird.png), url(../aoi-tori.jpg);
   background-repeat: no-repeat, no-repeat;
+  background-size: 5% 5%, cover;
+  background-color: lightgrey;
+  margin: 5px;
+}
+body{
+  background-image: url(../logo-bird.png), url(../aoi-tori.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 100% 100%, contain;
   background-color: lightgrey;
   margin: 5px;
 }
