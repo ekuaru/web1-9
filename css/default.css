@@ -91,3 +91,21 @@ body{
   background: linear-gradient(0deg,
               #00679a, #0081b4 50%, #63b3d2 50%, #bfe5f2 );
 }
+
+.transform{
+  font-size: 10px;
+  width: 100px;
+  text-align: center;
+  padding: 45px; 0px;
+  margin: 20px;
+  background-color: mediumspringgreen;
+}
+.translateX{
+  transform: translateX(10px);
+}
+.translateY{
+  transform: translateX(10px);
+}
+.translate{
+  transform: translateX(-20px, -5px);
+}
