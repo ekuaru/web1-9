@@ -104,8 +104,8 @@ body{
   transform: translateX(10px);
 }
 .translateY{
-  transform: translateX(10px);
+  transform: translateY(10px);
 }
 .translate{
-  transform: translateX(-20px, -5px);
+  transform: translate(-20px, -5px);
 }
